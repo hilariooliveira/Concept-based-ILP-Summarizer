@@ -4,4 +4,4 @@ References
 
 	[1] H. Oliveira, R. Lima, R. D. Lins, F. Freitas, M. Riss, and S. J. Simske. A concept-based integer linear programming approach for single-document summarization. In: 5th Brazilian Conference on Intelligent Systems, BRACIS 2016, Recife, Brazil, October 2016, pp. 403–408.
 
-	[2] H. Oliveira, R. D. Lins, R. Lima, and F. Freitas, A regressionbased approach using integer linear programming for single-document summarization, in 2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI), November 2017, pp. 270–277.
+	[2] H. Oliveira, R. D. Lins, R. Lima, and F. Freitas, A regression-based approach using integer linear programming for single-document summarization, in 2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI), November 2017, pp. 270–277.
